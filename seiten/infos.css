@@ -1,0 +1,23 @@
+body{
+  margin: 0px;
+}
+
+section{
+  background-color: coral;
+  width: 700px;
+  margin-left: 400px;
+  padding: 30px;
+}
+section h1{
+  color: azure;
+  margin-left: 120px;
+}
+
+section h4{
+  margin-left: 35px;
+  color: rgb(8, 78, 153);
+}
+
+section li{
+  color: aliceblue;
+}

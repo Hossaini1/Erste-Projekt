@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+  background-color: black;
+}
+
+section{
+  color: aliceblue;
+  font-size: xx-large;
+  margin-left: 550px;
+  margin-top: 200px;
+  text-decoration: underline;
+}
+
+section h2{
+  margin-left: 150px;
+  margin-bottom: 100px;
+}
+
+section li{
+  margin: 40px;
+}
+
+
